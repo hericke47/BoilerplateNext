@@ -11,13 +11,13 @@ Para baixar as dependências
 
 Para iniciar o projeto:
 
-``bash
+``
  yarn start
 ``
 <br>
 <br>
 Ou 
 
-``bash
+``
  npm start
 ``
