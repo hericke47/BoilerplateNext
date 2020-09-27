@@ -14,6 +14,7 @@ Para iniciar o projeto:
 ``bash
  yarn start
 ``
+<br>
 Ou 
 
 ``bash
