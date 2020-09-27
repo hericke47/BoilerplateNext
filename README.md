@@ -13,6 +13,4 @@ Para iniciar o projeto:
 
 ``bash
  yarn start
-
- npm start 
 ``
